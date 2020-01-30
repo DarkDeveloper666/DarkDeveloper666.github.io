@@ -155,3 +155,11 @@ p {
 .SignUp-content button {
   margin: 10px;
 }
+
+.SignUp {
+  text-align: center;
+}
+
+.contact {
+  text-align: center;
+}

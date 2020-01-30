@@ -147,3 +147,11 @@ p {
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
 }
+
+.SignUp-content input {
+  margin: 10px;
+}
+
+.SignUp-content button {
+  margin: 10px;
+}
